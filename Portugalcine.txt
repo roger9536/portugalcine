@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1,RTVP 1
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69645.ts
+#EXTINF:-1,RTVP 2
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69646.ts
+#EXTINF:-1,RTVP 3
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69647.ts
+#EXTINF:-1,RTP Memoria
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69648.ts
+#EXTINF:-1,RTP Africa
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69649.ts
+#EXTINF:-1,RTV Globo
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69650.ts
+#EXTINF:-1,RTV Globo New
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69651.ts
+#EXTINF:-1,TVI
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69652.ts
+#EXTINF:-1,TVI 24
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69653.ts
+#EXTINF:-1,TVI Ficcao
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69654.ts
+#EXTINF:-1,SIC
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69655.ts
+#EXTINF:-1,Sic Radical
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69656.ts
+#EXTINF:-1,SIC Noticias
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69657.ts
+#EXTINF:-1,Sic Mulher
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69658.ts
+#EXTINF:-1,TV Cine Action
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69659.ts
+#EXTINF:-1,TV Cine Top
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69660.ts
+#EXTINF:-1,TV Cine Edition
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69661.ts
+#EXTINF:-1,TV Cine Emotion
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69662.ts
+#EXTINF:-1,Cinemundo
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69663.ts
+#EXTINF:-1,Hollywood
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69664.ts
+#EXTINF:-1,Fox
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69665.ts
+#EXTINF:-1,Fox Life 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69666.ts
+#EXTINF:-1,Fox Movies
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69667.ts
+#EXTINF:-1,Fox Crime 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69668.ts
+#EXTINF:-1,Fox Comedy
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69669.ts
+#EXTINF:-1,AXN Movies
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69670.ts
+#EXTINF:-1,Nat Geo 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69671.ts
+#EXTINF:-1,National G Wild 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69672.ts
+#EXTINF:-1,Discovery 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69673.ts
+#EXTINF:-1,Caca.Pesca
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69674.ts
+#EXTINF:-1,24 Kitchen
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69675.ts
+#EXTINF:-1,Disney Junior 
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69676.ts
+#EXTINF:-1,Cartoon Network
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69677.ts
+#EXTINF:-1,Nickelodeon
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69678.ts
+#EXTINF:-1,Canal Panda
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69679.ts
+#EXTINF:-1,SIC Kids
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69680.ts
+#EXTINF:-1,Baby Tv
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69681.ts
+#EXTINF:-1,Porto Canal
+http://alternator.pro:80/live/MWQVJvwNEWkxJHjH67/kdJy3Y/69682.ts
+
